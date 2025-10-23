@@ -21,8 +21,6 @@ SET time_zone = "+00:00";
 -- Base de données : `bdd_tpg1`
 --
 
-CREATE DATABASE `bdd_tpg1`
-
 -- --------------------------------------------------------
 
 --
